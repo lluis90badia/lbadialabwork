@@ -16,12 +16,26 @@ In my opinion, giving the circumstances and the time of the incident, it seems s
 
 ## 2nd Part:
 
-- any feature engineering or feature wrangling methods which you have seen? 
+Unfortunately, because of little time left, it could only be possible to review two notebooks for comparing:
 
-- did they impute any missing values? 
+- [Gunes Evitan](https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial)
+- [Parul Pandey](https://www.kaggle.com/parulpandey/10-simple-hacks-to-speed-up-your-data-analysis)
 
--  what about scaling methods for numerical variables?
+### Any feature engineering or feature wrangling methods which you have seen? 
 
-- what about encoding categorical variables?
 
-- any evidence of overfit or sampling bias ? 
+
+### Did they impute any missing values? 
+
+
+
+### What about scaling methods for numerical variables?
+
+
+
+### What about encoding categorical variables?
+
+
+
+### Any evidence of overfit or sampling bias? 
+
