@@ -19,15 +19,17 @@ In my opinion, giving the circumstances and the time of the incident, it seems s
 Unfortunately, because of little time left, it could only be possible to review two notebooks for comparing:
 
 - Gunes Evitan: [Titanic - Advanced Feature Engineering Tutorial](https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial)
-- Parul Pandey: [10 Simple hacks to speed up your Data Analysis](https://www.kaggle.com/parulpandey/10-simple-hacks-to-speed-up-your-data-analysis)
+- Nadin Tamer: [Titanic Survival Predictions (Beginner)](https://www.kaggle.com/nadintamer/titanic-survival-predictions-beginner)
 
 ### Any feature engineering or feature wrangling methods which you have seen? 
 
+In the first notebook, 'Fare' and 'Age' are bined to convert them into categorical features to check the groups located towards if they survived or not using subplots. In the second notebook, 
 
+About dropping columns, 'Cabin' column is dropped because 'Deck' is used instead of that one; whereas in the second notebook, 'Cabin' and 'Ticket' are the ones to be dropped because their lack of relevancy.
 
 ### Did they impute any missing values? 
 
-
+On the one hand, looking at the first notebook, he fill the missing values from 'Age' column with the median age grouped from 'Pclass' because of the high correlation between 'Age' and 'Survived'; on the other hand, uses the mode grouping the values from their title from the column 'Name' (Mr., Mrs., etc.) to fill the null values in 'Age'.
 
 ### What about scaling methods for numerical variables?
 
