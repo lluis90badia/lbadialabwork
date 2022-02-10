@@ -15,3 +15,13 @@ Finally, after doing a correlation matrix and the subsequent heatmap for the num
 In my opinion, giving the circumstances and the time of the incident, it seems surprising that the amount men it was greater than women. Perhaps the person's influence ('Class' column) was a strong motive to be the ones who were able to get on the boats.
 
 ## 2nd Part:
+
+- any feature engineering or feature wrangling methods which you have seen? 
+
+- did they impute any missing values? 
+
+-  what about scaling methods for numerical variables?
+
+- what about encoding categorical variables?
+
+- any evidence of overfit or sampling bias ? 
