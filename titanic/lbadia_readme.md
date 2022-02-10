@@ -25,7 +25,7 @@ Unfortunately, because of little time left, it could only be possible to review 
 
 In the first notebook, 'Fare' and 'Age' are bined to convert them into categorical features to check the groups located towards if they survived or not using subplots. In the second notebook, column 'Age' is sorted into logical categories ('Baby', 'Child', 'Teenager', 'Adult', etc.). It is interesting to check that babies are the group with the highest chance to survive.
 
-About dropping columns, 'Cabin' column is dropped because 'Deck' is used instead of that one; whereas in the second notebook, 'Cabin' and 'Ticket' are the ones to be dropped because their lack of relevancy.
+About dropping columns, 'Cabin' column is dropped because 'Deck' is used instead of that one; whereas in the second notebook, 'Cabin' and 'Ticket' are the ones to be dropped because of their lack of relevancy.
 
 ### Did they impute any missing values? 
 
@@ -33,11 +33,12 @@ On the one hand, looking at the first notebook, he fill the missing values from 
 
 ### What about scaling methods for numerical variables?
 
-
+In the second notebook, there is no scaling, whereas in the first notebook it is used StandardSacler model and 'StratifiedKFold' stratify the target variable and ensure the same proportion for each class.
 
 ### What about encoding categorical variables?
 
-
+Categorical features are encoded (one-hot encoded) in the first notebook, whereas in the second one they are not.
 
 ### Any evidence of overfit or sampling bias? 
 
+In the first notebook, it is mentioned in the missing values paragraph that it would be useful to concatenate the training and the test sets while dealing with missing values, otherwise replacing those nulls could overfit the training or test set samples. Whereas there is no mention in the second notebook.
