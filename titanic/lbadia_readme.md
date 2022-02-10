@@ -18,7 +18,7 @@ In my opinion, giving the circumstances and the time of the incident, it seems s
 
 Unfortunately, because of little time left, it could only be possible to review two notebooks for comparing:
 
-- Gunes Evitan: [Titanic - Advanced Feature Engineering Tutorial](https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial)
+- Gunes Evitan: [Titanic - Advanced Feature Engineering Tutorial](https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial, target="_blank")
 - Nadin Tamer: [Titanic Survival Predictions (Beginner)](https://www.kaggle.com/nadintamer/titanic-survival-predictions-beginner)
 
 ### Any feature engineering or feature wrangling methods which you have seen? 
