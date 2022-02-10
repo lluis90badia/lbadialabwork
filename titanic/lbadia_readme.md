@@ -13,3 +13,5 @@ Subsequently, columns 'Cabin', 'PassengerId', 'Ticket', 'Name', 'Fare' and 'Emba
 Finally, after doing a correlation matrix and the subsequent heatmap for the numerical columns (all of them because there are no categorical columns after column 'Sex' has been converted to numerical binary), there is a strong correlation between 'Sex' and 'Pclass' with 'Survived' columns.
 
 In my opinion, giving the circumstances and the time of the incident, it seems surprising that the amount men it was greater than women. Perhaps the person's influence ('Class' column) was a strong motive to be the ones who were able to get on the boats.
+
+## 2nd Part:
