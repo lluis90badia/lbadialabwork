@@ -18,8 +18,8 @@ In my opinion, giving the circumstances and the time of the incident, it seems s
 
 Unfortunately, because of little time left, it could only be possible to review two notebooks for comparing:
 
-- [Gunes Evitan](https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial)
-- [Parul Pandey](https://www.kaggle.com/parulpandey/10-simple-hacks-to-speed-up-your-data-analysis)
+- Gunes Evitan: [Titanic - Advanced Feature Engineering Tutorial](https://www.kaggle.com/gunesevitan/titanic-advanced-feature-engineering-tutorial)
+- Parul Pandey: [10 Simple hacks to speed up your Data Analysis](https://www.kaggle.com/parulpandey/10-simple-hacks-to-speed-up-your-data-analysis)
 
 ### Any feature engineering or feature wrangling methods which you have seen? 
 
