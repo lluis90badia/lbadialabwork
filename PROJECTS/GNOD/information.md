@@ -6,7 +6,7 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 4/3/2022
 
 The purpose of this project is to recommend songs from two playlists based on the name of the song introduced by the user.
 
-## Steps
+## Steps ([notebook](https://github.com/lluis90badia/lbadialabwork/blob/main/PROJECTS/GNOD/GNOD_PROJECT.ipynb))
 
 ### The Hot 100 (Billboard)
 
