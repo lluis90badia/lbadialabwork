@@ -41,6 +41,7 @@ At the first stages of the conflict, much of the IDPs were located in the centra
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_syria_situation_2018.PNG"  height="400"></p>
 <p align="center">Syrian Civil War in 2018</p>
 > [Source: Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war#/media/File:SyrianWarAnimation2011-2019.gif)
+> [Source: Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war#/media/File:SyrianWarAnimation2011-2019.gif)
 
 ## Refugee dispersion demographics
 
