@@ -31,8 +31,10 @@ The case of Syria is similar to the later ones, although the regime was never de
 
 ## IDP based on Syrian Governorates
 
-<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/idp_2021.PNG"  height="400"></p>
-*<p align="center">Number of IPDs per Governorate in 2021 and IDP timeline (2011-2021)</p>*
+At the first stages of the conflict, much of the IDPs were located in the central regions of the country. The number was low until the end of 2013 when Daesh (the Islamic State of Iraq and the Levant) occupied the eastern-central regions (along the Euphrates river) and established al Raqqa as its capital for four years (2013-2017) when Western-backed rebel forces defeated ISIL forces. For that reason, the population who could flee from the reign of terror installed by the radicals moved to the west and NW of the country. It is also remarkable that there was an important amount of IDP in rural Damascus due to its capital's proximity.
+
+<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/idp_2014.PNG"  height="400"></p>
+<p align="center">Number of IDPs per Governorate in 2014 (estimated IDP peak) and IDP timeline (2011-2021)</p>
 
 ## Refugee dispersion demographics
 
