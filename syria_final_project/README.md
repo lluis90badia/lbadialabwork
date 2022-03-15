@@ -66,6 +66,8 @@ Besides, there is a contrast between the Asylum-Seekers and the Asylum-Applicant
 
 - Most of the data is based on estimations giving the difficulty to obtain reliable ground sources from a country which have been struggling for more than a decade without hopes of an imminent peace deal or an agreement to lay down arms between the contenders with opposing points of view.
 
+- It would have been useful to have a more accurate age group distribution, particularly in the adult age, to check for patterns.
+
 - For almost a decade, Syria is the country with the most number of IDPs (Internal Displaced People) followed by the Democratic Republic of the Congo (5.3 million) and Colombia (4.9 million).
 
 - As the conflict progressed, the population fleeing the war has been concentrating in the areas of the northwest not controlled by the Syrian government (SDF - Syrian Democratic Forces and the Kurdish left-wing party PYD in the north).
