@@ -31,7 +31,7 @@ The case of Syria is similar to the later ones, although the regime was never de
 
 ## IDP based on Syrian Governorates
 
-In this first part, we focus on displaying the number of IDPs located in each of the fourteen Governorates that form the Syrian Arab Republic during the (available) years between 2011 and 2021.
+This first part is focused on displaying the number of IDPs located in each of the fourteen Governorates that form the Syrian Arab Republic during the (available) years between 2011 and 2021.
 
 At the first stages of the conflict, much of the IDPs were located in the central regions of the country. The number was low until the end of 2013 when Daesh (the Islamic State of Iraq and the Levant) occupied the eastern-central regions (along the Euphrates river) and established al Raqqa as its capital for four years (2013-2017) when Western-backed rebel forces defeated ISIL forces. For that reason, the population who could flee from the reign of terror installed by the radicals moved to the west and NW of the country. It is also remarkable that there was an important amount of IDP in rural Damascus due to its capital's proximity.
 
@@ -52,6 +52,8 @@ However, the Idleb region has been resisting and continues to remain the main re
 For almost a decade, Syria is the country with the most number of IDPs (Internal Displaced People) followed by the Democratic Republic of the Congo (5.3 millions) and Colombia (4.9 millions).
 
 ## Refugee dispersion demographics
+
+
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/ref_demographics.PNG"  height="400"></p>
 
