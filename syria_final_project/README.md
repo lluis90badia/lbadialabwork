@@ -25,3 +25,4 @@ At the start of that period, the majority of the protests were peaceful and achi
 
 The case of Syria is similar to the later ones, although the regime was never deposed. Therefore, the situation changed and the peaceful protests turned violent because of the violent response from the al-Assad regime. That is when the Civil War began.
 
+fdsgsdfg
