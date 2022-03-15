@@ -18,19 +18,7 @@ The purpose of this project is to display and understand two aspects:
 - Which countries are the ones who received more Syrian refugees based on gender and group ages.
 - Which countries sought asylum or applied for during those years.
 
-## Context (Arab Spring)
-
-
-
-<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_arab_spring.PNG"  height="400"></p>
-
-> [Source: Wikipedia](https://en.wikipedia.org/wiki/Arab_Spring#Protests_and_uprisings)
-
-At the start of that period, the majority of the protests were peaceful and achieved their goals by overthrowing the regimes in some of those countries, such as Tunisia (posterior free elections); in other places, they achieved governmental changes such as Jordan or Oman among others. However, the regimes in Lybia and Yemen were overthrown, but the protests escalated to violent conflicts causing the clash inside their borders until nowadays. 
-
-The case of Syria is similar to the later ones, although the regime was never deposed. Therefore, the situation changed and the peaceful protests turned violent because of the violent response from the al-Assad regime. That is when the Civil War began.
-
-For a deeper understanding of the events, see this report.
+For a deeper understanding of the events, please see this report.
 
 ## IDP based on Syrian Governorates
 
