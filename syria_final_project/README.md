@@ -22,6 +22,7 @@ The purpose of this project is to display and understand two aspects:
 During 2010 and 2011, in several countries of the Arab World, there was a rising in dissatisfaction and the need for change in those countries tired of decades of authoritarianism, corruption, poverty and unemployment, among other factors. Therefore, the population started to march on the streets, demanding human rights, justice, employment and Regime changes.
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_arab_spring.PNG"  height="400">
+<p align="center">[Source: Wikipedia](https://en.wikipedia.org/wiki/Arab_Spring#/media/File:Arab_Spring_and_Regional_Conflict_Map.svg)</p>
 
 At the start of that period, the majority of the protests were peaceful and achieved their goals by overthrowing the regimes in some of those countries, such as Tunisia (posterior free elections); in other places, they achieved governmental changes such as Jordan or Oman among others. However, the regimes in Lybia and Yemen were overthrown, but the protests escalated to violent conflicts causing the clash inside their borders until nowadays. 
 
