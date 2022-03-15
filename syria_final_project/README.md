@@ -59,7 +59,11 @@ As the years went by, there was a change of dynamics when the Civil War started 
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/ref_demographics.PNG"  height="400"></p>
 
+It is also important to remark that, in front of the increase of the refugee turnout at the gates of the European countries, the European Union had to elaborate a plan to solve that dramatic and complex situation. That is why they would distribute that population between the member States. However, some of them (especially from the eastern part) were reluctant to those policies, given that their governments were implementing anti-immigration measures.
 
+About 
+
+In summary, Turkey, by far, is the country that encompass a more amount of refugees.
 
 ## Top Asylum-Seeker/Asylum-Applications countries
 
