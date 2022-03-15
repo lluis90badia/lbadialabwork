@@ -32,7 +32,7 @@ The case of Syria is similar to the later ones, although the regime was never de
 ## IDP based on Syrian Governorates
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/idp_2021.PNG"  height="400"></p>
-<p align="center"> *Number of IPDs per Governorate in 2021 and IDP timeline (2011-2021)*</p>
+*<p align="center">Number of IPDs per Governorate in 2021 and IDP timeline (2011-2021)</p>*
 
 ## Refugee dispersion demographics
 
