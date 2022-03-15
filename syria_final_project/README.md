@@ -19,7 +19,7 @@ The purpose of this project is to display and understand two aspects:
 - Which countries are the ones who received more Syrian refugees based on gender and group ages.
 - Which countries sought asylum or applied for during those years.
 
-For a deeper understanding of the events, please see this [report]() attached.
+For a deeper understanding of the events, please see this attached [report]().
 
 ## IDP based on Syrian Governorates
 
