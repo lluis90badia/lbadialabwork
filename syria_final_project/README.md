@@ -53,6 +53,8 @@ For almost a decade, Syria is the country with the most number of IDPs (Internal
 
 ## Refugee dispersion demographics
 
+The second part is focused on displaying the top countries that gather the majority of refugees based on gender and group ages from 2011 to 2021.
+
 As the years went by, there was a change of dynamics when the Civil War started (from European to closer Arab countries) except for Germany and Turkey (not considered an Arab country). Therefore, not only the proximity but cultural and religious roots seem quite strong when determining which country to head.
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/ref_demographics.PNG"  height="400"></p>
