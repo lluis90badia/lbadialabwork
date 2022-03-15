@@ -24,14 +24,9 @@ For a deeper understanding of the events, please see this report.
 
 This first part is focused on displaying the number of IDPs located in each of the fourteen Governorates that form the Syrian Arab Republic during the (available) years between 2011 and 2021.
 
-At the first stages of the conflict, much of the IDPs were located in the central regions of the country. The number was low until the end of 2013 when Daesh (the Islamic State of Iraq and the Levant) occupied the eastern-central regions (along the Euphrates river) and established al Raqqa as its capital for four years (2013-2017) when Western-backed rebel forces defeated ISIL forces. For that reason, the population who could flee from the reign of terror installed by the radicals moved to the west and NW of the country. It is also remarkable that there was an important amount of IDP in rural Damascus due to its capital's proximity.
-
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/idp_2014.PNG"  height="400"></p>
 <p align="center">Number of IDPs per Governorate in 2014 (estimated IDP peak) and IDP timeline (2011-2021)</p>
 
-As the conflict went by, the IDP's exodus was located increasingly in the NW regions, especially Aleppo and Idleb. However, the Aleppo Governorate suffered important damage when Russia entered in October 2015 to back the government forces as a crucial turning point for the path of defeating the rebel factions (also against ISIL).
-
-After that, Government forces were gaining territory towards the north and east until reaching the Euphrates river (the north side has been controlled by Kurdish forces after defeating ISIL since 2017).
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_syria_situation_2018.PNG"  height="400"></p>
 <p align="center">Syrian Civil War in 2018</p>
