@@ -38,6 +38,10 @@ At the first stages of the conflict, much of the IDPs were located in the centra
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/idp_2014.PNG"  height="400"></p>
 <p align="center">Number of IDPs per Governorate in 2014 (estimated IDP peak) and IDP timeline (2011-2021)</p>
 
+As the conflict went by, the IDP's exodus was located increasingly in the NW regions, especially Aleppo and Idleb. However, the Aleppo Governorate suffered important damage when Russia entered in October 2015 to back the government forces as a crucial turning point for the path of defeating the rebel factions (also against ISIL).
+
+After that, Government forces were gaining territory towards the north and east until reaching the Euphrates river (the north side has been controlled by Kurdish forces after defeating ISIL since 2017).
+
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_syria_situation_2018.PNG"  height="400"></p>
 <p align="center">Syrian Civil War in 2018</p>
 
