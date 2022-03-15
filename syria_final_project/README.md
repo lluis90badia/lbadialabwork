@@ -42,7 +42,7 @@ However, the Idleb region has been resisting and continues to remain the main re
 
 For almost a decade, Syria is the country with the most number of IDPs (Internal Displaced People) followed by the Democratic Republic of the Congo (5.3 millions) and Colombia (4.9 millions).
 
-## Refugee dispersion demographics
+## Refugee dispersion demographics based on gender and group ages
 
 The second part is focused on displaying the top countries that gather the majority of refugees based on gender and group ages from 2011 to 2021.
 
