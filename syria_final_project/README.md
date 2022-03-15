@@ -8,7 +8,7 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 - [Context (Arab Spring)](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#context-arab-spring)
 - [IDP based on Syrian Governorates](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#idp-based-on-syrian-governorates)
 - [Refugee dispersion demographics based on gender and group ages](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#refugee-dispersion-demographics)
-- [Top Asylum-Seeker/Asylum-Applicant countries](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#top-asylum-seekerasylum-applications-countries)
+- [Top Asylum-Seeker/Applicant countries](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#top-asylum-seekerasylum-applications-countries)
 - [Conclusions](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#conclusions)
 
 ## Purpose
@@ -45,13 +45,15 @@ However, after the early stages, the distribution got more uniform between the g
 
 About the differences between gender, in general, the male population has been greater than the female. There are no major divergences between them, except that there is more presence of male refugees in Germany than in the female population, which reflects that it was more difficult for them to reach greater objectives for better prospects.
 
-## Top Asylum-Seeker/Asylum-Applicant countries
+## Top Asylum-Seeker/Applicant countries
 
-First of all, it is important to understand the difference between a refugee and an asylum-seeker/applicant.
+First of all, it is important to understand the difference between a refugee and an asylum-seeker/applicant:
 
-A refugee is a person who is fleeing armed conflicts or persecution and its situation is perilous that cross national borders to seek safety and access to assistance from another country. 
+- A refugee is a person who is fleeing armed conflicts or persecution and its situation is perilous that cross national borders to seek safety and access to assistance from another country. 
 
-Whereas an Asylum-Seeker is a person who claims to be a refugee but its application has not been evaluated yet. Until that person will not become a refugee, will be recognised as an Asylum-Seeker.
+- Whereas an Asylum-Seeker is a person who claims to be a refugee but its application has not been evaluated yet. Until that person will not become a refugee, will be recognised as an Asylum-Seeker.
+
+- On the other hand, the term Asylum-applicant differs from Asylum-Seeker when the application has been already submitted. Therefore, the UNHCR distinguish the ones who are in process (seeker) and the ones who have already a response (applicants).
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/seekers_applicants.PNG"  height="400"></p>
 <p align="center">Top countries with more Asylum-Seekers/Asylum-Applicants (2011-2021)</p>
