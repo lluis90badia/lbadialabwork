@@ -36,6 +36,7 @@ In addition, it was also used SQL (a database was created along with several tab
 On the one hand, the intention was to approach visualisations in a more geographical way using maps based on National or International perspectives during the years available.
 On the other hand, bar and pie charts have been used to create 'race bars' or animated charts to have better visualisations and facilitate the analysis.
 
+
 ## IDP based on Syrian Governorates
 
 This first part is focused on displaying the number of IDPs located in each of the fourteen Governorates that form the Syrian Arab Republic during the (available) years between 2011 and 2021.
@@ -60,7 +61,10 @@ However, after the early stages, the distribution got more uniform between the g
 
 About the differences between gender, in general, the male population has been greater than the female. There are no major divergences between them, except that there is more presence of male refugees in Germany than in the female population, which reflects that it was more difficult for them to reach greater objectives for better prospects.
 
+
 ## Top Asylum-Seeker/Applicant countries
+
+Finally, the last part is focused on displaying which countries had more applications from Syrian seeking-population to become a refugee and be able to receive benefits from the asylum state.
 
 First of all, it is important to understand the difference between a refugee and an asylum-seeker/applicant:
 
