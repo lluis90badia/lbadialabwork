@@ -35,8 +35,8 @@ The case of Syria is similar to the later ones, although the regime was never de
 
 ## Refugee dispersion demographics
 
-<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_arab_spring.PNG"  height="400"></p>
+<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/ref_demographics.PNG"  height="400"></p>
 
 ## Top Asylum-Seeker/Asylum-Applications countries
 
-<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_arab_spring.PNG"  height="400"></p>
+<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/seekers_applicants.PNG"  height="400"></p>
