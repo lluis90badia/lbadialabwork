@@ -4,8 +4,8 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 
 ## Contents
 
-- [Purpose](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#context-arab-spring)
-- Context (Arab Spring)
+- [Purpose]
+- [Context] (Arab Spring)(https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#context-arab-spring)
 - IDP based on Syrian Governorates
 - Refugee dispersion demographics
 - Top Asylum-Seeker/Asylum-Applications countries
