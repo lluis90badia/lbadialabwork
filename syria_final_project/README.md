@@ -42,6 +42,8 @@ The first one, the majority of the people were families with small children (0-4
 
 However, after the early stages, the distribution got more uniform between the groups, although the adult one has been the top one. Regarding the countries in which they ended up, there was a clear change of tendency of western countries to closer countries with similar cultural and religious roots.
 
+About the differences between gender, in general, the male population has been greater than the female. There are no major divergences between them, except that there is more presence of male refugees in Germany than in the female population, which reflects that it was more difficult for them to reach greater objectives for better prospects.
+
 In summary, Turkey, by far, is the country that encompass a more amount of refugees.
 
 ## Top Asylum-Seeker/Asylum-Applicant countries
