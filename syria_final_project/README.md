@@ -33,11 +33,14 @@ This first part is focused on displaying the number of IDPs located in each of t
 
 The second part is focused on displaying the top countries that gather the majority of refugees based on gender and group ages from 2011 to 2021.
 
-As the years went by, there was a change of dynamics when the Civil War started (from European to closer Arab countries) except for Germany and Turkey (not considered an Arab country). Therefore, not only the proximity but cultural and religious roots seem quite strong when determining which country to head.
+Regarding the refugee distribution based on group ages and gender, there is a clear difference between 2011 (data before the events started or the very early stages) and the following years.
+
+The first one, the majority of the people were families with small children (0-4 years), and the countries that were heading were from the West. Therefore, it seems that they were looking for stability and a more level of future opportunities.
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/ref_demographics.PNG"  height="400"></p>
+<p align="center">Refugee demographics (2020-2021)</p>
 
-About 
+However, after the early stages, the distribution got more uniform between the groups, although the adult one has been the top one. Regarding the countries in which they ended up, there was a clear change of tendency of western countries to closer countries with similar cultural and religious roots.
 
 In summary, Turkey, by far, is the country that encompass a more amount of refugees.
 
