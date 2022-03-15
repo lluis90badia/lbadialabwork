@@ -47,6 +47,10 @@ After that, Government forces were gaining territory towards the north and east 
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war#/media/File:SyrianWarAnimation2011-2019.gif) (animation)
 
+However, the Idleb region has been resisting and continues to remain the main rebel stronghold. Therefore, it has become the main location for the majority of displaced people who still refuse to follow authoritarian rules, fear repression after returning to their home or have lost everything back home.
+
+For almost a decade, Syria is the country with the most number of IDPs (Internal Displaced People) followed by the Democratic Republic of the Congo (5.3 millions) and Colombia (4.9 millions).
+
 ## Refugee dispersion demographics
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/ref_demographics.PNG"  height="400"></p>
