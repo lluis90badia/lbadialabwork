@@ -19,6 +19,8 @@ The purpose of this project is to display and understand two aspects:
 
 ## Context (Arab Spring)
 
+In this first part, we focus on displaying the number of IDPs located in each of the fourteen Governorates that form the Syrian Arab Republic during the (available) years between 2011 and 2021.
+
 During 2010 and 2011, in several countries of the Arab World, there was a rising in dissatisfaction and the need for change in those countries tired of decades of authoritarianism, corruption, poverty and unemployment, among other factors. Therefore, the population started to march on the streets, demanding human rights, justice, employment and Regime changes.
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_arab_spring.PNG"  height="400"></p>
@@ -35,6 +37,8 @@ At the first stages of the conflict, much of the IDPs were located in the centra
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/idp_2014.PNG"  height="400"></p>
 <p align="center">Number of IDPs per Governorate in 2014 (estimated IDP peak) and IDP timeline (2011-2021)</p>
+
+
 
 ## Refugee dispersion demographics
 
