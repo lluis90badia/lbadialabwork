@@ -5,6 +5,7 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 ## Contents
 
 - [Purpose](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#purpose)
+- [Steps used for the project]()
 - [Context (Arab Spring)](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#context-arab-spring)
 - [IDP based on Syrian Governorates](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#idp-based-on-syrian-governorates)
 - [Refugee dispersion demographics based on gender and group ages](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#refugee-dispersion-demographics)
@@ -20,6 +21,10 @@ The purpose of this project is to display and understand two aspects:
 - Which countries sought asylum or applied for during those years.
 
 For a deeper understanding of the events, please see this attached [report]().
+
+## Steps used for the project
+
+
 
 ## IDP based on Syrian Governorates
 
