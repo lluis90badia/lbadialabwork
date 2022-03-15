@@ -20,7 +20,7 @@ The purpose of this project is to display and understand three aspects:
 - Which countries are the ones who received more Syrian refugees based on gender and group ages.
 - Which countries sought asylum or applied for during those years.
 
-For a deeper understanding of the events, please see this attached [report]().
+For a deeper understanding of the events, please see the attached [report]().
 
 ## Steps used for the project
 
