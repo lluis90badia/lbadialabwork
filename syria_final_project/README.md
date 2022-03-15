@@ -45,7 +45,7 @@ This first part is focused on displaying the number of IDPs located in each of t
 
 At the first stages of the conflict, much of the IDPs were located in the central regions of the country. 
 
-But as the conflict went by, the IDP's exodus was located increasingly in the NW regions, especially Aleppo and Idleb. However, the Aleppo Governorate suffered important damage when Russia entered in scene in October 2015 to back the government forces as a crucial turning point for the path of confronting the rebel factions (and also the Islamic State of Iraq and the Levant or ISIL).
+But as the conflict went by, the IDP's exodus was located increasingly in the NW regions, especially Aleppo and Idleb. However, the Aleppo Governorate suffered important damage when Russia entered in scene in October 2015 to back the government forces as a crucial turning point for the path of confronting the rebel factions (and also the Islamic State of Iraq and the Levant or ISIL in the East).
 
 That is why, the Idleb region has been resisting and continues to remain the main rebel stronghold. Therefore, it has become the main location for the majority of displaced people who still refuse to follow authoritarian rules, fear repression after returning to their home or have lost everything back home.
 
