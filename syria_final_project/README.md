@@ -49,7 +49,8 @@ But as the conflict went by, the IDP's exodus was located increasingly in the NW
 
 That is why, the Idleb region has been resisting and continues to remain the main rebel stronghold. Therefore, it has become the main location for the majority of displaced people who still refuse to follow authoritarian rules, fear repression after returning to their home or have lost everything back home.
 
-The total number of internally displaced persons has remained constant at around 6.5 million for several years since the increase in 2013 and its peak in 2014.
+Since the increase in 2013 and its peak in 2014, the total number of IDPs has remained constant at around 6.5 million.
+
 
 ## Refugee dispersion demographics based on gender and group ages
 
