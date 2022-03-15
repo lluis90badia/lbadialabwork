@@ -7,8 +7,8 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 - [Purpose](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#purpose)
 - [Context (Arab Spring)](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#context-arab-spring)
 - [IDP based on Syrian Governorates](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#idp-based-on-syrian-governorates)
-- [Refugee dispersion demographics](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#refugee-dispersion-demographics)
-- [Top Asylum-Seeker/Asylum-Applications countries](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#top-asylum-seekerasylum-applications-countries)
+- [Refugee dispersion demographics based on gender and group ages](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#refugee-dispersion-demographics)
+- [Top Asylum-Seeker/Asylum-Applicant countries](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#top-asylum-seekerasylum-applications-countries)
 
 ## Purpose
 
@@ -56,6 +56,6 @@ About
 
 In summary, Turkey, by far, is the country that encompass a more amount of refugees.
 
-## Top Asylum-Seeker/Asylum-Applications countries
+## Top Asylum-Seeker/Asylum-Applicant countries
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/seekers_applicants.PNG"  height="400"></p>
