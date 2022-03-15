@@ -53,7 +53,7 @@ First of all, it is important to understand the difference between a refugee and
 
 - Whereas an Asylum-Seeker is a person who claims to be a refugee but its application has not been evaluated yet. Until that person will not become a refugee, will be recognised as an Asylum-Seeker.
 
-- On the other hand, the term Asylum-applicant differs from Asylum-Seeker when the application has been already submitted. Therefore, the UNHCR distinguish the ones who are in process (seeker) and the ones who have already a response (applicants).
+- On the other hand, the term Asylum-Applicant differs from Asylum-Seeker when the application has been already submitted. Therefore, the UNHCR distinguish the ones who are in process (Seeker) and the ones who have already a response (Applicant).
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/seekers_applicants.PNG"  height="400"></p>
 <p align="center">Top countries with more Asylum-Seekers/Asylum-Applicants (2011-2021)</p>
