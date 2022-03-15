@@ -45,8 +45,6 @@ However, after the early stages, the distribution got more uniform between the g
 
 About the differences between gender, in general, the male population has been greater than the female. There are no major divergences between them, except that there is more presence of male refugees in Germany than in the female population, which reflects that it was more difficult for them to reach greater objectives for better prospects.
 
-In summary, Turkey, by far, is the country that encompass a more amount of refugees.
-
 ## Top Asylum-Seeker/Asylum-Applicant countries
 
 First of all, it is important to understand the difference between a refugee and an asylum-seeker/applicant.
@@ -61,9 +59,6 @@ Whereas an Asylum-Seeker is a person who claims to be a refugee but its applicat
 According to the UNHCR data, there are clear differences between the countries where the Syrian population wanted to apply (that does not mean they got accepted as a refugee) or were seeking asylum and the ones who ended up in closer countries as refugees.
 
 Besides, there is a contrast between the Asylum-Seekers and the Asylum-Applicants. About the first ones, not only were seeking in European countries but countries such as the USA or Libya; whereas the latter ones were choosing mostly European countries which are members of the European Union.
-
-In summary, Germany is, by far, the country with more applications throughout the conflict (so far).
-
 
 ## Conclusions
 
