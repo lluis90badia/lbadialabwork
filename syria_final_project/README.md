@@ -28,14 +28,6 @@ This first part is focused on displaying the number of IDPs located in each of t
 <p align="center">Number of IDPs per Governorate in 2014 (estimated IDP peak) and IDP timeline (2011-2021)</p>
 
 
-<p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_syria_situation_2018.PNG"  height="400"></p>
-<p align="center">Syrian Civil War in 2018</p>
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_Syrian_civil_war#/media/File:SyrianWarAnimation2011-2019.gif) (animation)
-
-However, the Idleb region has been resisting and continues to remain the main rebel stronghold. Therefore, it has become the main location for the majority of displaced people who still refuse to follow authoritarian rules, fear repression after returning to their home or have lost everything back home.
-
-For almost a decade, Syria is the country with the most number of IDPs (Internal Displaced People) followed by the Democratic Republic of the Congo (5.3 millions) and Colombia (4.9 millions).
 
 ## Refugee dispersion demographics based on gender and group ages
 
@@ -44,8 +36,6 @@ The second part is focused on displaying the top countries that gather the major
 As the years went by, there was a change of dynamics when the Civil War started (from European to closer Arab countries) except for Germany and Turkey (not considered an Arab country). Therefore, not only the proximity but cultural and religious roots seem quite strong when determining which country to head.
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/ref_demographics.PNG"  height="400"></p>
-
-It is also important to remark that, in front of the increase of the refugee turnout at the gates of the European countries, the European Union had to elaborate a plan to solve that dramatic and complex situation. That is why they would distribute that population between the member States. However, some of them (especially from the eastern part) were reluctant to those policies, given that their governments were implementing anti-immigration measures.
 
 About 
 
