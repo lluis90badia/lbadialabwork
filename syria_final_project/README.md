@@ -14,7 +14,7 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 
 ## Purpose
 
-The purpose of this project is to display and understand two aspects:
+The purpose of this project is to display and understand three aspects:
 
 - Which Syrian Governorates were grouping more IDPs during the conflict.
 - Which countries are the ones who received more Syrian refugees based on gender and group ages.
