@@ -23,7 +23,7 @@ During 2010 and 2011, in several countries of the Arab World, there was a rising
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_arab_spring.PNG"  height="400"></p>
 
-[Wikipedia](https://en.wikipedia.org/wiki/Arab_Spring#Protests_and_uprisings)
+
 [Source: Wikipedia](https://en.wikipedia.org/wiki/Arab_Spring#Protests_and_uprisings)
 
 At the start of that period, the majority of the protests were peaceful and achieved their goals by overthrowing the regimes in some of those countries, such as Tunisia (posterior free elections); in other places, they achieved governmental changes such as Jordan or Oman among others. However, the regimes in Lybia and Yemen were overthrown, but the protests escalated to violent conflicts causing the clash inside their borders until nowadays. 
