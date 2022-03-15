@@ -19,8 +19,6 @@ The purpose of this project is to display and understand two aspects:
 
 ## Context (Arab Spring)
 
-In this first part, we focus on displaying the number of IDPs located in each of the fourteen Governorates that form the Syrian Arab Republic during the (available) years between 2011 and 2021.
-
 During 2010 and 2011, in several countries of the Arab World, there was a rising in dissatisfaction and the need for change in those countries tired of decades of authoritarianism, corruption, poverty and unemployment, among other factors. Therefore, the population started to march on the streets, demanding human rights, justice, employment and Regime changes.
 
 <p align="center"><img src="https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/images/wikipedia_arab_spring.PNG"  height="400"></p>
@@ -32,6 +30,8 @@ At the start of that period, the majority of the protests were peaceful and achi
 The case of Syria is similar to the later ones, although the regime was never deposed. Therefore, the situation changed and the peaceful protests turned violent because of the violent response from the al-Assad regime. That is when the Civil War began.
 
 ## IDP based on Syrian Governorates
+
+In this first part, we focus on displaying the number of IDPs located in each of the fourteen Governorates that form the Syrian Arab Republic during the (available) years between 2011 and 2021.
 
 At the first stages of the conflict, much of the IDPs were located in the central regions of the country. The number was low until the end of 2013 when Daesh (the Islamic State of Iraq and the Levant) occupied the eastern-central regions (along the Euphrates river) and established al Raqqa as its capital for four years (2013-2017) when Western-backed rebel forces defeated ISIL forces. For that reason, the population who could flee from the reign of terror installed by the radicals moved to the west and NW of the country. It is also remarkable that there was an important amount of IDP in rural Damascus due to its capital's proximity.
 
