@@ -15,8 +15,8 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 
 The purpose of this project is to display and understand three aspects:
 
-- The IDPs distribution .
-- Which countries are the ones who received more Syrian refugees based on gender and group ages.
+- IDP distribution in the fourteen Syrian Governorates during the available years.
+- Which countries were the ones who received more Syrian refugees based on gender and group ages during 2011-2021.
 - Which countries sought asylum or applied for during those years.
 
 For a deeper understanding of the events, please see the attached [report]().
