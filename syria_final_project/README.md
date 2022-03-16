@@ -2,7 +2,7 @@
 
 By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 
-## Contents
+## Contents 
 
 - [Purpose](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#purpose)
 - [Steps used for the project](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#steps-used-for-the-project)
