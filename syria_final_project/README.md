@@ -8,7 +8,7 @@ By [Lluis Badia Planes](https://github.com/lluis90badia), 18/3/2022
 - [Steps used for the project](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#steps-used-for-the-project)
 - [IDP based on Syrian Governorates](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#idp-based-on-syrian-governorates)
 - [Refugee dispersion demographics based on gender and group ages](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#refugee-dispersion-demographics-based-on-gender-and-group-ages)
-- [Top Asylum-Seeker/Applicant countries](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#top-asylum-seekerasylum-applications-countries)
+- [Top Asylum-Seeker/Applicant countries](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#top-asylum-seekerapplicant-countries)
 - [Conclusions](https://github.com/lluis90badia/lbadialabwork/blob/main/syria_final_project/README.md#conclusions)
 
 ## Purpose
