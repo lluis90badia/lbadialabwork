@@ -35,6 +35,8 @@ In addition, it was also used SQL (a [database](https://github.com/lluis90badia/
 On the one hand, the intention was to approach visualisations in a more geographical way using maps based on National or International perspectives during the years available.
 On the other hand, bar and pie charts have been used to create 'race bars' or animated charts to have better visualisations and facilitate the analysis.
 
+The key to creating the 'race bar' plots has been grouping the year columns with the 'pivot' option, so they were converted to rows and then placed in the 'pages' area. About the map visualisations, it was created multiple layers to display more than one kind of feature to get better analysis.
+
 
 ## IDP based on Syrian Governorates
 
