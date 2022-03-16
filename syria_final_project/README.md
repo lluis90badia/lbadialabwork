@@ -23,7 +23,7 @@ For a deeper understanding of the events, please see the attached [report](https
 
 ## Steps used for the project
 
-First of all, the search for the data has been focused, mostly, on international agencies such as the UNHCR (the United Nations Human Rights Council), particularly in the UN-OCHA (the Office for the Coordination of Human Affairs):
+First of all, the search for the data has been focused, mostly, on international agencies such as the UNHCR (the United Nations High Comissioner for Refugees), particularly in the UN-OCHA (the Office for the Coordination of Human Affairs):
 
 - Humanitarian Data Exchange (HDX)
 - Relief Web
