@@ -53,7 +53,7 @@ That is why, the Idleb region has been resisting and continues to remain the mai
 
 Since the increase in 2013 and its peak in 2014, the total number of IDPs has remained constant at around 6.5 million.
 
-dsdf
+
 ## Refugee dispersion demographics based on gender and group ages
 
 The second part is focused on displaying the top countries that gather the majority of refugees based on gender and group ages from 2011 to 2021.
